@@ -42,3 +42,26 @@ header #logo{
     height: 100vh;
     object-fit: cover; /*Ocupa todo o Espaço*/
 }
+/* QUIZ*/
+#container-quiz{
+    background: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.quiz{
+    background: #CCC;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #555;
+    width: 80%;
+    max-width: 600px;
+}
+
+.quiz h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
