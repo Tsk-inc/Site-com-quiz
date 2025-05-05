@@ -64,4 +64,25 @@ header #logo{
 .quiz h1{
     text-align: center;
     margin-bottom: 20px;
+    color:blue;
+}
+
+#container-perguntas h2{
+    color:green;
+    margin-bottom: 20px;
+}
+#container-respostas{
+    margin-bottom: 20px;
+}
+#resposta{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    font-size: 1rem;
+}
+#proximo{
+    background: rgb(0, 145, 255);
+    color:#fff;
+    
 }

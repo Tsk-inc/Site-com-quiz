@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded',()=>{
         "Qual linguagem de programação você utiliza?",
         "Descreva essa linguagem.",
         "Em que ano surgiu a Linguagem utilizada?",
-        "Você se considera um prograamador senior?",
+        "Você se considera um programador senior?",
     ]
     //DECLARANDOS AS VARIAVEIS
     let perguntas = 0;
